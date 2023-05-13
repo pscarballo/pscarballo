@@ -2,8 +2,8 @@
    <h3 align="center">My Name is Pablo </h3>
 
 
-<p align="center" width="700">
-   <img align="center" width="300" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/giphy.webp" />
+<p align="center" width="500">
+   <img align="center" width="200" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/giphy.webp" />
    <!--<img align="center" width="300"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVlNzU3ZTU5NjViY2M2NjMzZWQzYTg3YmQwMjFjOTQxYWVhZGIzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/AHLyW9I6F0qqzex1C3/giphy.gif" />-->
   
 </p>
