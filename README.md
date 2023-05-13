@@ -22,9 +22,10 @@
 
 
 <p align="center">
-<a href="mailto:pscarballo@gmail.com"><img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" height="25" /></a>
-<a href="https://linkedin.com/in/pscarballo"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="25" /></a>
-<a href="https://wa.me/542215227112?text=Hola!%20Te%20contacto%20desde%20github"><img src="https://img.shields.io/badge/WhatsApp-282C34?logo=whatsapp&logoColor=25D366" height="25" /></a>
+<a href="mailto:pscarballo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" height="25" /></a>
+<a href="https://linkedin.com/in/pscarballo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="25" /></a>
+   
+<a href="https://wa.me/542215227112?text=Hola!%20Te%20contacto%20desde%20github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-282C34?logo=whatsapp&logoColor=25D366" height="25" /></a>
 </p>
 
 
