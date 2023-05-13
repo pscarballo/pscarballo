@@ -3,7 +3,7 @@
 
 
 <p align="center" width="500">
-   <img align="center" width="200" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/giphy.webp" />
+   <img align="center" width="300" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/giphy.webp" />
    <!--<img align="center" width="300"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVlNzU3ZTU5NjViY2M2NjMzZWQzYTg3YmQwMjFjOTQxYWVhZGIzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/AHLyW9I6F0qqzex1C3/giphy.gif" />-->
   
 </p>
@@ -13,11 +13,12 @@
 <h3> 👦 Pablo Carballo | 💻 Full Stack Developer (...in progress) | 📍 La Plata , ARG </h3>
 </div>
 
- <br>
+<br>
+
  <h2 align="center">
   🔍  Where to find me
  </h2>
- <br>
+
 
 
 <p align="center">
@@ -36,13 +37,14 @@
 
 <img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" height="25" />-->
 
+
 <br>
 
 <h2 align="center">
   🛠  Technologies and tools 
 </h2>
 
-<br>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
