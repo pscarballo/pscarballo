@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" height="25" />-->
 
 
-<br>
+
 
 <h2 align="center">
   🛠  Technologies and tools 
@@ -54,10 +54,13 @@
 
 <br>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pscarballo&layout=compact&theme=vision-friendly-dark)](https://github.com/pscarballo/github-readme-stats)
- 
-</div>
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pscarballo&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
+
+
 
   
 
